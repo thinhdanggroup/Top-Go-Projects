@@ -36,7 +36,7 @@
 | [vuls](https://github.com/future-architect/vuls) | **7380** | **803**  | Agent-less vulnerability scanner for Linux, FreeBSD, Container Image, Running Container, WordPress, Programming language libraries, Network devices |
 | [jid](https://github.com/simeji/jid) | **5508** | **115**  | json incremental digger |
 | [httplab](https://github.com/gchaincl/httplab) | **3549** | **120**  | The interactive web server |
-| [color](https://github.com/fatih/color) | **3399** | **401**  | Color package for Go (golang) |
+| [color](https://github.com/fatih/color) | **3400** | **401**  | Color package for Go (golang) |
 | [dry](https://github.com/moncho/dry) | **2060** | **85**  | dry - A Docker manager for the terminal @ |
 | [lf](https://github.com/gokcehan/lf) | **1968** | **91**  | Terminal file manager |
 | [fac](https://github.com/mkchoi212/fac) | **1654** | **40**  | Easy-to-use CUI for fixing git conflicts |
@@ -137,7 +137,7 @@
 | [mux](https://github.com/gorilla/mux) | **11604** | **1181**  | A powerful HTTP router and URL matcher for building Go web servers with 🦍 |
 | [httprouter](https://github.com/julienschmidt/httprouter) | **11023** | **1059**  | A high performance HTTP request router that scales well |
 | [martini](https://github.com/go-martini/martini) | **10901** | **1101**  | Classy web framework for Go |
-| [chi](https://github.com/go-chi/chi) | **7295** | **486**  | lightweight, idiomatic and composable router for building Go HTTP services |
+| [chi](https://github.com/go-chi/chi) | **7296** | **486**  | lightweight, idiomatic and composable router for building Go HTTP services |
 | [buffalo](https://github.com/gobuffalo/buffalo) | **5498** | **435**  | Rapid Web Development w/ Go |
 | [go-swagger](https://github.com/go-swagger/go-swagger) | **5018** | **789**  | Swagger 2.0 implementation for go |
 | [goa](https://github.com/goadesign/goa) | **3774** | **431**  | Design-based APIs and microservices in Go |
@@ -201,4 +201,4 @@
 | [book](https://github.com/GoBootcamp/book) | **253** | **72**  | Source code of the companion book/website |
 | [Go-Design-Patterns](https://github.com/PacktPublishing/Go-Design-Patterns) | **182** | **72**  | This is the code repository for the book, Go Design Patterns, published by Packt |
 
-*Last Update: 2020-04-12T17:32:58Z*
+*Last Update: 2020-04-12T18:12:24Z*

@@ -193,7 +193,7 @@
 | [go101](https://github.com/go101/go101) | **2867** | **181**  | An online book focusing on Go syntax/semantics. |
 | [web-dev-golang-anti-textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook) | **2576** | **232**  | Learn how to write webapps without a framework in Go. |
 | [the-little-go-book](https://github.com/karlseguin/the-little-go-book) | **1549** | **188**  |  |
-| [go-for-javascript-developers](https://github.com/pazams/go-for-javascript-developers) | **851** | **92**  | A comparison between Go and Javascript |
+| [go-for-javascript-developers](https://github.com/pazams/go-for-javascript-developers) | **851** | **91**  | A comparison between Go and Javascript |
 | [ethereum-development-with-go-book](https://github.com/miguelmota/ethereum-development-with-go-book) | **589** | **150**  | 📖 A little book on Ethereum Development with Go (golang) |
 | [learninggo](https://github.com/miekg/learninggo) | **400** | **86**  | Learning Go Book in mmark |
 | [concurrency-in-go-src](https://github.com/kat-co/concurrency-in-go-src) | **395** | **123**  | Full sourcecode for the book, "Concurrency in Go" published by O'Reilly. |
@@ -201,4 +201,4 @@
 | [book](https://github.com/GoBootcamp/book) | **256** | **73**  | Source code of the companion book/website |
 | [Go-Design-Patterns](https://github.com/PacktPublishing/Go-Design-Patterns) | **185** | **74**  | This is the code repository for the book, Go Design Patterns, published by Packt |
 
-*Last Update: 2020-05-09T06:59:23Z*
+*Last Update: 2020-05-09T07:00:37Z*
